@@ -1,8 +1,8 @@
 # MyMarket
 
 
-Team Member A: <ΓΕΩΡΓΙΟΣ> <ΤΥΡΠΤΣΗΣ> <3529> \
-Team Member B: <ΕΛΕΝΗ> <ΣΑΠΑΝΙΔΟΥ> <4542> 
+Georgios Tyrptsis (Developed as a collaborative academic project at Aristotle University of Thessaloniki)
+
 
 
 Εισαγωγή στο Project
